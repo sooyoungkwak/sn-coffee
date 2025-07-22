@@ -1,7 +1,7 @@
 package com.sy.sncoffee.mapper;
 
-import org.springframework.web.bind.annotation.Mapping;
+import org.apache.ibatis.annotations.Mapper;
 
-@Mapping
-public interface SampleMapper {
-}
+//@Mapper
+//public interface SampleMapper {
+//}
